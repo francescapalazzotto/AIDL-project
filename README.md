@@ -5,7 +5,7 @@
 This project explores the use of deep learning for **MRI glioma segmentation**, focusing on the **U-Net** architecture. The goal is to implement and compare different U-Net variations to analyze how model parameters affect segmentation performance.  
 
 The dataset used is **LGG MRI Segmentation**, available on Kaggle:  
-🔗 [Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)  
+🔗 [Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
 ## Project Structure  
 
